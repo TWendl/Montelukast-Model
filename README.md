@@ -7,7 +7,7 @@ Whole-body PBPK model of montelukast
 
 ## Repository files
 
-Within this repository, we distribute a whole-body PBPK model of  Montelukast, that has been developed using clinical studies in adults and evaluated for its predictive performance of GFR mediated clearance after oral administration in children. 
+Within this repository, we distribute a whole-body PBPK model of  Montelukast, that has been developed using clinical studies in adults and evaluated for its predictive performance of CYP2C8 mediated clearance after oral administration in children. 
 
 The PK-Sim project file contains simulations of all published clinical studies employed during model establishment [[1-4](#reference)] and for model predictions in pediatrics [[1, 5-10](#reference)], including the respective observed data digitized.
 
