@@ -9,7 +9,7 @@ Whole-body PBPK model of montelukast
 
 Within this repository, we distribute a whole-body PBPK model of  Montelukast, that has been developed using clinical studies in adults and evaluated for its predictive performance of GFR mediated clearance after oral administration in children. 
 
-The PK-Sim project file contains simulations of all published clinical studies employed during model establishment [[1](#reference)] and for model predictions in pediatrics [[1](#reference)], including the respective observed data digitized.
+The PK-Sim project file contains simulations of all published clinical studies employed during model establishment [[1-4](#reference)] and for model predictions in pediatrics [[1, 5-10](#reference)], including the respective observed data digitized.
 
 ## Code of conduct
 
@@ -43,7 +43,7 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [9] [Knorr B, Maganti L, Ramakrishnan R, Tozzi CA, Migoya E, Kearns G. Pharmacokinetics and safety of montelukast in children aged 3 to 6 months. J Clin Pharmacol. 2006 Jun;46(6):620-7.]()
 
-[10][Migoya E1, Kearns GL, Hartford A, Zhao J, van Adelsberg J, Tozzi CA, Knorr B, Deutsch P. Pharmacokinetics of montelukast in asthmatic patients 6 to 24 months old. J Clin Pharmacol. 2004 May;44(5):487-94.](https://accp1.onlinelibrary.wiley.com/doi/full/10.1177/0091270004264970)
+[10] [Migoya E1, Kearns GL, Hartford A, Zhao J, van Adelsberg J, Tozzi CA, Knorr B, Deutsch P. Pharmacokinetics of montelukast in asthmatic patients 6 to 24 months old. J Clin Pharmacol. 2004 May;44(5):487-94.](https://accp1.onlinelibrary.wiley.com/doi/full/10.1177/0091270004264970)
 
 
 
