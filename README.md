@@ -11,7 +11,7 @@ Within this repository, we distribute a whole-body PBPK model of  Montelukast, t
 
 The PK-Sim project file contains simulations of all published clinical studies employed during model establishment [[1-4](#reference)] and for model predictions in pediatrics [[1, 5-10](#reference)], including the respective observed data digitized.
 
-Due to the large size of the PK-Sim file, only the [_project snapshot_](https://docs.open-systems-pharmacology.org/working-with-pk-sim/pk-sim-documentation/importing-exporting-project-data-models#exporting-project-to-snapshot-loading-project-from-snapshot) ['Montelukast.json'](Montelukast.json) file has been published here. The pk-sim file can be found under the ['releases'](../../releases) section.
+Due to the large size of the PK-Sim project file, only the [_project snapshot_](https://docs.open-systems-pharmacology.org/working-with-pk-sim/pk-sim-documentation/importing-exporting-project-data-models#exporting-project-to-snapshot-loading-project-from-snapshot) file ['Montelukast.json'](Montelukast.json) has been published here. The pk-sim project file can be found under the ['releases'](../../releases) section.
 
 ## Code of conduct
 
