@@ -11,6 +11,8 @@ Within this repository, we distribute a whole-body PBPK model of  Montelukast, t
 
 The PK-Sim project file contains simulations of all published clinical studies employed during model establishment [[1-4](#reference)] and for model predictions in pediatrics [[1, 5-10](#reference)], including the respective observed data digitized.
 
+Due to the size of the PK-Sim file, only the snapshot 'Montelukast.json' file has been published here. The pk-sim can be found under the 'releases' section.
+
 ## Code of conduct
 
 Everyone interacting in the Open Systems Pharmacology community  (codebases, issue trackers, chat rooms, mailing lists etc...) is  expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
